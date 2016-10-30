@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: bdd5da01706d54cc4a74b5723c3a2ec7
+timeCreated: 1475198511
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: bee
+    100004: //RootNode
+    100006: Body1.R
+    100008: Body1.R.001
+    100010: Bone.003
+    100012: Bone.004
+    100014: Leg1.R
+    100016: Leg1.R.001
+    100018: Leg2.L
+    100020: Leg2.R
+    100022: Leg3.L
+    100024: Leg3.R
+    100026: Leg4.L
+    100028: Leg4.L_end
+    100030: Leg4.R
+    100032: Leg4.R_end
+    100034: Wing1.L
+    100036: Wing1.R
+    100038: Wing2.L
+    100040: Wing2.L_end
+    100042: Wing2.R
+    100044: Wing2.R_end
+    400000: Armature
+    400002: bee
+    400004: //RootNode
+    400006: Body1.R
+    400008: Body1.R.001
+    400010: Bone.003
+    400012: Bone.004
+    400014: Leg1.R
+    400016: Leg1.R.001
+    400018: Leg2.L
+    400020: Leg2.R
+    400022: Leg3.L
+    400024: Leg3.R
+    400026: Leg4.L
+    400028: Leg4.L_end
+    400030: Leg4.R
+    400032: Leg4.R_end
+    400034: Wing1.L
+    400036: Wing1.R
+    400038: Wing2.L
+    400040: Wing2.L_end
+    400042: Wing2.R
+    400044: Wing2.R_end
+    4300000: bee
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: bee
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body1.R
+        weight: 1
+      - path: Armature/Body1.R/Bone.003
+        weight: 1
+      - path: Armature/Body1.R/Bone.003/Leg1.R
+        weight: 1
+      - path: Armature/Body1.R/Bone.003/Leg1.R/Leg2.R
+        weight: 1
+      - path: Armature/Body1.R/Bone.003/Leg1.R/Leg2.R/Leg3.R
+        weight: 1
+      - path: Armature/Body1.R/Bone.003/Leg1.R/Leg2.R/Leg3.R/Leg4.R
+        weight: 1
+      - path: Armature/Body1.R/Bone.003/Leg1.R/Leg2.R/Leg3.R/Leg4.R/Leg4.R_end
+        weight: 1
+      - path: Armature/Body1.R.001
+        weight: 1
+      - path: Armature/Body1.R.001/Bone.004
+        weight: 1
+      - path: Armature/Body1.R.001/Bone.004/Leg1.R.001
+        weight: 1
+      - path: Armature/Body1.R.001/Bone.004/Leg1.R.001/Leg2.L
+        weight: 1
+      - path: Armature/Body1.R.001/Bone.004/Leg1.R.001/Leg2.L/Leg3.L
+        weight: 1
+      - path: Armature/Body1.R.001/Bone.004/Leg1.R.001/Leg2.L/Leg3.L/Leg4.L
+        weight: 1
+      - path: Armature/Body1.R.001/Bone.004/Leg1.R.001/Leg2.L/Leg3.L/Leg4.L/Leg4.L_end
+        weight: 1
+      - path: Armature/Wing1.L
+        weight: 1
+      - path: Armature/Wing1.L/Wing2.L
+        weight: 1
+      - path: Armature/Wing1.L/Wing2.L/Wing2.L_end
+        weight: 1
+      - path: Armature/Wing1.R
+        weight: 1
+      - path: Armature/Wing1.R/Wing2.R
+        weight: 1
+      - path: Armature/Wing1.R/Wing2.R/Wing2.R_end
+        weight: 1
+      - path: bee
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
